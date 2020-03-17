@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/contact-redux/static/css/main.d1b05096.chunk.css",
+    "main.js": "/contact-redux/static/js/main.45068ce7.chunk.js",
+    "main.js.map": "/contact-redux/static/js/main.45068ce7.chunk.js.map",
+    "runtime-main.js": "/contact-redux/static/js/runtime-main.c6bb11be.js",
+    "runtime-main.js.map": "/contact-redux/static/js/runtime-main.c6bb11be.js.map",
+    "static/js/2.0d8544e4.chunk.js": "/contact-redux/static/js/2.0d8544e4.chunk.js",
+    "static/js/2.0d8544e4.chunk.js.map": "/contact-redux/static/js/2.0d8544e4.chunk.js.map",
+    "index.html": "/contact-redux/index.html",
+    "precache-manifest.f350426d80277e1d18c53f276cace40d.js": "/contact-redux/precache-manifest.f350426d80277e1d18c53f276cace40d.js",
+    "service-worker.js": "/contact-redux/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/contact-redux/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.0d8544e4.chunk.js.LICENSE": "/contact-redux/static/js/2.0d8544e4.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6bb11be.js",
+    "static/js/2.0d8544e4.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.45068ce7.chunk.js"
+  ]
+}
