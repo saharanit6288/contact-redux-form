@@ -2,6 +2,7 @@
   "name": "contact-redux",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://saharanit6288.github.io/contact-redux",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
@@ -14,6 +15,8 @@
     "redux-form": "^8.2.6"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
